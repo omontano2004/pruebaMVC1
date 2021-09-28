@@ -1,20 +1,25 @@
-﻿<Properties StartupConfiguration="{EA3EF808-DF23-4B7B-874C-0E7A6046C00A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="pruebaMVC/Startup.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{EA3EF808-DF23-4B7B-874C-0E7A6046C00A}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="pruebaMVC/Startup.cs" Line="22" Column="1" />
+      <File FileName="pruebaMVC/Views/Shared/_Layout.cshtml" Line="48" Column="8" />
+      <File FileName="pruebaMVC/Views/Personas/Index.cshtml" Line="19" Column="12" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="pruebaMVC" expanded="True">
             <Node name="pruebaMVC" expanded="True">
-              <Node name="wwwroot" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Personas" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
